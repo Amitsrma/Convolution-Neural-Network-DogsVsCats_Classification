@@ -1,5 +1,5 @@
 # Convolution-Neural-Network-DogsVsCats_Classification
-It is one of my first trials on developing convolutional neural network for identifying dogs and cats from image
+It is one of my first trials on developing convolutional neural network for identifying dogs and cats from image. This is a part of kaggle competition: https://www.kaggle.com/c/dogs-vs-cats
 
 I was trying to develop a model on my computer, due to memory and processing limitations it took around 30 minutes just for one epoch to complete.
 
