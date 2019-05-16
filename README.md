@@ -7,4 +7,4 @@ Google Collab ran 10 epochs in about 57 minutes.
 
 I had some challenges relating to unzipping the files. and I learned that the process I used is normally feasible only for some cases. I could not use the same process when there was a folder in zip file which contained another folder within and then the image or, data I wanted to work with. But it worked for the work I did here.
 
-I am grateful for all the people who have posted ways to solve problems on github and stachoverflow, it would not have been possible without them.
+I am grateful for all the people who have posted ways to solve problems on github and stackoverflow, it would not have been possible without them.
